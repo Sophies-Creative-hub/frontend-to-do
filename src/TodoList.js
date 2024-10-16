@@ -25,6 +25,7 @@ function TodoList() {
             { id: 0, text: 'Learn React', isComplete: false },
             { id: 1, text: 'Learn Vue', isComplete: false },
             { id: 2, text: 'Learn Angular', isComplete: false },
+            { id: 3, text: 'CI/CD verstehen', isComplete: false}
           ]);
           
           setLoading(false);
